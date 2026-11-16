@@ -1,0 +1,8 @@
+{
+  "name": "بيطار برو — المساعد البيطري السريري",
+  "description": "منصة طبية متكاملة للطبيب البيطري لإدارة المرضى، الفحص السريري SOAP، حاسبة الجرعات والسوائل الوريدية، المواعيد والتحصينات، والمرجع الفيزيولوجي والسموم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
